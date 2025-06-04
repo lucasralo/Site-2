@@ -1,10 +1,10 @@
 :root{
-    --cor-de-fundo: #000000; 
-    --azul:#020879; 
+    --cor-de-fundo: #0b16f5; 
+    --azul:#ee17f1; 
     --vermelho765:#f4290a;
     --botao-ativo:#00ec4f;
     --botao-inativo:#08a2f5;
-    --texto-fundo:#f70000;
+    --texto-fundo:#716e6e;
     --fonte:'Embed code'
 }
 @import url('https://fonts.googleapis.com/css2?family=Tagesschrift&display=swap');
