@@ -11,10 +11,10 @@ for (let i=0; i < botoes.length; i++){
     }
 }
 const contadores = document.querySelectorAll(".contador");
-const tempoobjetivol = new Date ("2030-01-01T00:00:00");
-const tempoobjetivo2 = new Date ("2030-01-01T00:00:00");
-const tempoobjetivo3 = new Date ("2030-01-01T00:00:00");
-const tempoobjetivo4 = new Date ("2030-01-01T00:00:00");
+const tempoobjetivol = new Date ("2030-01-01T23:30:00");
+const tempoobjetivo2 = new Date ("2030-01-01T22:00:00");
+const tempoobjetivo3 = new Date ("2030-01-01T12:00:00");
+const tempoobjetivo4 = new Date ("2030-01-01T23:00:00");
 const tempos = [tempoObjetivol, tempoObjetivo2,tempoObjetivo3,tempoObjetivo4]
 function atualizaCronometro (){
     for(let i = 0; i < contadores.length;i++){
