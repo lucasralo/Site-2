@@ -1,9 +1,9 @@
 :root{
-    --cor-de-fundo: #0b16f5; 
+    --cor-de-fundo: #000000; 
     --azul:#ee17f1; 
     --vermelho765:#f4290a;
     --botao-ativo:#00ec4f;
-    --botao-inativo:#8d838c;
+    --botao-inativo:#0851b1;
     --texto-fundo:#716e6e;
     --fonte:'Embed code'
 }
